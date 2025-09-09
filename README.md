@@ -28,7 +28,7 @@ Collection Summary:
 
 | Biometric Modality | Hardware Device(s) | Total Files | Files / Subject / Session |
 | :--- | :--- | :--- | :--- |
-| Fingerprint | Crossmatch 4-4-2 Scanner | 13,969 | 4 Still Frames |
+| Fingerprint | Crossmatch 4-4-2 Scanner | 13,969 | 6 Still Frames |
 | Footprint | Certascan Footprint Scanner | 15,458 | 4 Still Frames |
 | Face and Ear | Cannon EOS 70D | 14,884 | 2 and 4 Still Frames respectively |
 | Iris | System I: IG-AD100 Dual Iris Camera, System II: iCAM T10 Iris ID | System I: 18,313, System II: 7,788 | System I: 8 Still Frames, System II\*: 4 Still Frames |
@@ -37,3 +37,37 @@ Collection Summary:
 *\* Iris System II was included from the fourth session*
 
 *\*\* Voice System II was included from the eighth sesssion* 
+
+
+## Publications
+
+1. Singh, Surendra, Keivan Bahmani, and Stephanie Schuckers. *Longitudinal evaluation of child face recognition and the impact of underlying age.*  
+   In [2024 IEEE International Joint Conference on Biometrics (IJCB)](https://ieeexplore.ieee.org/document/10615649), pp. 1-9. IEEE, 2024.
+
+2. Das, Priyanka, Naveen G. Venkataswamy, Laura Holsopple, Masudul H. Imtiaz, Michael Schuckers, and Stephanie Schuckers.  
+   *Longitudinal performance of iris recognition in children: Time intervals up to six years.*  
+   [arXiv:2303.12720](https://arxiv.org/abs/2303.12720) (2023).
+
+3. Das, Priyanka, Laura Holsopple, Dan Rissacher, Michael Schuckers, and Stephanie Schuckers.  
+   *Iris recognition performance in children: A longitudinal study.*  
+   [IEEE Transactions on Biometrics, Behavior, and Identity Science 3(1): 138-151](https://ieeexplore.ieee.org/document/9354272), 2021.
+
+4. Bahmani, Keivan, and Stephanie Schuckers.  
+   *Face recognition in children: A longitudinal study.*  
+   [arXiv:2204.01760](https://arxiv.org/abs/2204.01760) (2022).
+
+5. Murshed, MG Sarwar, Keivan Bahmani, Stephanie Schuckers, and Faraz Hussain.  
+   *Deep Age-Invariant Fingerprint Segmentation System.*  
+   [IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/document/10636338) (2024).
+
+6. Murshed, M. S., Kline, R., Bahmani, K., Hussain, F., & Schuckers, S.  
+   *Deep slap fingerprint segmentation for juveniles and adults.*  
+   In [2021 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)](https://ieeexplore.ieee.org/document/9641987), pp. 1-4. IEEE, 2021.
+
+7. Yambay, David, Morgan Johnson, Keivan Bahmani, and Stephanie Schuckers.  
+   *A feasibility study on utilizing toe prints for biometric verification of children.*  
+   In [2019 International Conference on Biometrics (ICB)](https://ieeexplore.ieee.org/document/8972085), pp. 1-7. IEEE, 2019.
+
+8. Purnapatra, Sandip, Priyanka Das, Laura Holsopple, and Stephanie Schuckers.  
+   *Longitudinal study of voice recognition in children.*  
+   In [2020 International Conference of the Biometrics Special Interest Group (BIOSIG)](https://ieeexplore.ieee.org/document/9237415), pp. 1-8. IEEE, 2020.

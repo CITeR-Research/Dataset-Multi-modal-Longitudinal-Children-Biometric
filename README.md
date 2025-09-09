@@ -32,7 +32,7 @@ Collection Summary:
 | Footprint | Certascan Footprint Scanner | 15,458 | 4 Still Frames |
 | Face and Ear | Cannon EOS 70D | 14,884 | 2 and 4 Still Frames respectively |
 | Iris | System I: IG-AD100 Dual Iris Camera, System II: iCAM T10 Iris ID | System I: 18,313, System II: 7,788 | System I: 8 Still Frames, System II\*: 4 Still Frames |
-| Voice Recording | System I: Audio-Techica, System II: Monochannel Non-Condenser Based Microphone | System I: 2,406, System II: 1,222 | System I: 1 Recording, System II\*\*: 1 Recording |
+| Voice Recording | System I: Audio-Technica, System II: Monochannel Non-Condenser Based Microphone | System I: 2,406, System II: 1,222 | System I: 1 Recording, System II\*\*: 1 Recording |
 
 *\* Iris System II was included from the fourth session*
 

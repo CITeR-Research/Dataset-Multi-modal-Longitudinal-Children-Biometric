@@ -1,4 +1,4 @@
-# Clarkson Unviersity:  Multi-modal Longitudinal Children Biometric Dataset
+# Clarkson University:  Multi-modal Longitudinal Children Biometric Dataset
 
 Available to CITeR members only under the CITeR Database Release Agreement. 
 

@@ -9,9 +9,7 @@ Technical Contact: Stephanie Schuckers, sschucke@clarkson.edu
 Data collected from six different modalities collected at an approximate time interval of six months, longitudinally over 9 years. Collected at Potsdam Elementary School and Potsdam High School. Funded by the CITeR and National Science Foundation. This biometric dataset collection contains data of six biometric modalities. Few modalities are collected using more than one sensor:
 - Fingerprints
 - Footprints
-  
 - Face
-
 - Ear
 - NIR Iris
 - Voice Recordings

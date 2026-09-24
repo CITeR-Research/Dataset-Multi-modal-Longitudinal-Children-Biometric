@@ -43,50 +43,52 @@ Collection Summary:
 
 ## Publications
 
-1. Venkataswamy, N.G., Imtiaz, M.H. and Schuckers, S., 2026. Nine Years of Pediatric Iris Recognition: Evidence for Biometric Permanence from Childhood through Adolescence. 2026. https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177220102.20928682 
-3. Venkataswamy, Naveenkumar G., Poorna Ravi, Stephanie Schuckers, and Masudul H. Imtiaz.  
+1. Venkataswamy, N.G., Imtiaz, M.H. and Schuckers, S., 2026. Nine Years of Pediatric Iris Recognition: Evidence for Biometric Permanence from Childhood through Adolescence. 2026. https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177220102.20928682
+2. Sumi, M.R. and Schuckers, S., 2026. Longitudinal Evaluation of Child Fingerprint Recognition: Time Interval up to Eight years. IEEE Transactions on Biometrics, Behavior, and Identity Science. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11505912
+3. Hossain, A. and Schuckers, S., 2025, May. Fusion of face and ear biometrics for robust child recognition: Insights into age-dependent recognition trends. In 2025 IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG) (pp. 1-8). IEEE.  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11099214 
+4. Venkataswamy, Naveenkumar G., Poorna Ravi, Stephanie Schuckers, and Masudul H. Imtiaz.  
    *OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation.*  
    [arXiv:2505.05374](https://arxiv.org/abs/2505.05374) (2025). **Accepted to IEEE Access.**
 
-4. Hossain, Afzal, and Stephanie Schuckers.  
+5. Hossain, Afzal, and Stephanie Schuckers.  
    *Fusion of Face and Ear Biometrics for Robust Child Recognition: Insights into Age-Dependent Recognition Trends.*  
    In [2025 IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG)](https://ieeexplore.ieee.org/abstract/document/11099214), pp. 1–8. IEEE, 2025
 
-5. Singh, Surendra, Keivan Bahmani, and Stephanie Schuckers. *Longitudinal evaluation of child face recognition and the impact of underlying age.*  
+6. Singh, Surendra, Keivan Bahmani, and Stephanie Schuckers. *Longitudinal evaluation of child face recognition and the impact of underlying age.*  
    In [2024 IEEE International Joint Conference on Biometrics (IJCB)](https://ieeexplore.ieee.org/document/10744505), pp. 1–9. IEEE, 2024.
 
-6. Hossain, Afzal, Tipu Sultan, Mohammad Zahir Uddin Chowdhury, and Stephanie Schuckers.  
+7. Hossain, Afzal, Tipu Sultan, Mohammad Zahir Uddin Chowdhury, and Stephanie Schuckers.  
    *Deep Learning Approach for Ear Recognition and Longitudinal Evaluation in Children.*  
    In [2024 International Conference of the Biometrics Special Interest Group (BIOSIG)](https://ieeexplore.ieee.org/abstract/document/10786753), pp. 1–7. IEEE, 2024.
 
-7. Murshed, MG Sarwar, Keivan Bahmani, Stephanie Schuckers, and Faraz Hussain.  
+8. Murshed, MG Sarwar, Keivan Bahmani, Stephanie Schuckers, and Faraz Hussain.  
    *Deep Age-Invariant Fingerprint Segmentation System.*  
    [IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/document/10769499) (2024).
 
-8. Das, Priyanka, Naveen G. Venkataswamy, Laura Holsopple, Masudul H. Imtiaz, Michael Schuckers, and Stephanie Schuckers.  
+9. Das, Priyanka, Naveen G. Venkataswamy, Laura Holsopple, Masudul H. Imtiaz, Michael Schuckers, and Stephanie Schuckers.  
    *Longitudinal performance of iris recognition in children: Time intervals up to six years.*  
    [arXiv:2303.12720](https://arxiv.org/abs/2303.12720) (2023).
 
-9. Bahmani, Keivan, and Stephanie Schuckers.  
+10. Bahmani, Keivan, and Stephanie Schuckers.  
    *Face recognition in children: A longitudinal study.*  
    [arXiv:2204.01760](https://arxiv.org/abs/2204.01760) (2022).
 
-10. Das, Priyanka, Laura Holsopple, Dan Rissacher, Michael Schuckers, and Stephanie Schuckers.  
+11. Das, Priyanka, Laura Holsopple, Dan Rissacher, Michael Schuckers, and Stephanie Schuckers.  
    *Iris recognition performance in children: A longitudinal study.*  
    [IEEE Transactions on Biometrics, Behavior, and Identity Science 3(1): 138–151](https://ieeexplore.ieee.org/document/9321488), 2021.
 
-11. Murshed, M. S., Kline, R., Bahmani, K., Hussain, F., & Schuckers, S.  
+12. Murshed, M. S., Kline, R., Bahmani, K., Hussain, F., & Schuckers, S.  
    *Deep slap fingerprint segmentation for juveniles and adults.*  
    In [2021 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)](https://ieeexplore.ieee.org/document/9641980), pp. 1–4. IEEE, 2021.
 
-12. Das, Priyanka, Laura Holsopple, Stephanie Schuckers, and Michael Schuckers.  
+13. Das, Priyanka, Laura Holsopple, Stephanie Schuckers, and Michael Schuckers.  
    *Analysis of dilation in children and its impact on iris recognition.*  
    In [2020 IEEE International Joint Conference on Biometrics (IJCB)](https://ieeexplore.ieee.org/document/9304911), pp. 1–9. IEEE, 2020.
 
-13. Purnapatra, Sandip, Priyanka Das, Laura Holsopple, and Stephanie Schuckers.  
+14. Purnapatra, Sandip, Priyanka Das, Laura Holsopple, and Stephanie Schuckers.  
    *Longitudinal study of voice recognition in children.*  
    In [2020 International Conference of the Biometrics Special Interest Group (BIOSIG)](https://ieeexplore.ieee.org/document/9211067), pp. 1–8. IEEE, 2020.
 
-14. Yambay, David, Morgan Johnson, Keivan Bahmani, and Stephanie Schuckers.  
+15. Yambay, David, Morgan Johnson, Keivan Bahmani, and Stephanie Schuckers.  
    *A feasibility study on utilizing toe prints for biometric verification of children.*  
    In [2019 International Conference on Biometrics (ICB)](https://ieeexplore.ieee.org/document/8987273), pp. 1–7. IEEE, 2019.
